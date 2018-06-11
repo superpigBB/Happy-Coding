@@ -44,7 +44,8 @@ class Solution:
         ## initialize array to store list of levels
         result = []
         ## add root node into queue
-        q = [root]
+        from collections import deque
+        q = deque([root])
 
         while q:
             ## initialize array to store levels of nodes
@@ -52,7 +53,7 @@ class Solution:
             ## traverse level by level
             size = len(q)
             for i in range(size):
-                head = q.pop(0)
+                head = q.popleft()
                 level.append(head.val)
                 if head.left is not None:
                     q.append(head.left)
@@ -80,15 +81,16 @@ class Solution:
         ## initialize array to store list of levels
         result = []
         ## add root node into queue1
-        q1 = [root]
-        q2 = []
+        from collections import deque
+        q1 = deque([root])
+        q2 = deque([])
 
         while q1:
             ## initialize array to store levels of nodes
             level = []
             ## traverse queue 1 and store child nodes into queue 2
             for i in range(len(q1)):
-                head = q1.pop(0)
+                head = q1.popleft
                 level.append(head.val)
                 if head.left is not None:
                     q2.append(head.left)
