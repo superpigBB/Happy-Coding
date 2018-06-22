@@ -12,3 +12,61 @@
 # return 2
 
 
+class Solution:
+    """
+    @param grid: a 2D integer grid
+    @return: an integer
+    """
+
+    ## 类BFS的做法，对于grid，对人也就是0进行搜索， 找到人就设为1
+    ## 每次遍历完整个grid算是一次
+    ## 设people_cnt and become_zombie_cnt,如果become_zombie_cnt = 0 return -1
+    ## 当people_cnt == become_zombie_cnt, return 遍历个数
+    def zombie(self, grid):
+        # write your code here
+        ## corner cases
+        if grid is None:
+            return -1
+
+        row = len(grid)
+        col = len(grid[0])
+
+        ## initialize variables
+        day_cnt = 1
+        peopleMetCnt = 0
+        becomeZombieCnt = 0
+        delta_x = [0, 0, -1, 1]
+        delta_y = [1, -1, 0, 0]
+
+        while True:
+            for i in range(row):
+                for j in range(col):
+                    ##找到人了，然后查左右邻居，只要有一个是1就return并且变为1
+                    if grid[i][j] == 0:
+                        peopleMetCnt += 1
+                        ## check neighbors for those people
+                        if self.neighborIsZombie(grid, i, j, delta_x, delta_y):
+                            grid[i][j] = 1  ## 如果发现四周有zombie,就把人变为zombie
+                            becomeZombieCnt += 1
+
+            if peopleMetCnt != 0 and becomeZombieCnt == 0:
+                return -1
+            if peopleMetCnt == becomeZombieCnt:
+                return day_cnt
+            day_cnt += 1
+
+            ## detect people neighbors zombie or not and whether it's within boundary
+
+    def neighborIsZombie(self, grid, x, y, delta_x, delta_y):
+        for i in range(len(delta_x)):
+            newX = x + delta_x[i]
+            newY = y + delta_y[i]
+
+            if self.isBoundary(grid, newX, newY) and grid[newX][newY] == 1:
+                return True
+
+    ## boundary 判断
+    def isBoundary(self, grid, x, y):
+        return x < len(grid) and y < len(grid[0])
+
+
