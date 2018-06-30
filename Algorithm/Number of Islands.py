@@ -22,7 +22,8 @@ from collections import deque
 
 
 ### Solution 1:这题最好不用DFS，因为可能绕得层数多了，导致stack overflow
-### 一般看到这种题就要想到宽度优先搜索，但这题不用分层，就是从第一个点开始搜索，如果是1，就把它设为0，然后找他相邻在矩阵范围内的点数，然后把那些也设置为0并保存到queue里,循环直到queue为空
+### 一般看到这种题就要想到宽度优先搜索，但这题不用分层，就是从第一个点开始搜索，如果是1，就把它设为0，然后找他相邻在矩阵范围内的点数，然后把那些也设置为0并保存到queue里,
+### 循环直到queue为空
 ### Time Complexity O(M*N) Space O(min(M,N))
 class Solution:
     """
@@ -54,7 +55,7 @@ class Solution:
     def bfs_search(self, grid, row, col):
         ## 设置变动指针而不改变row and col
         x, y = row, col
-        q = deque()
+        q = deque([])
         q.append([x, y])
         ## 找到那个是1的点，然后初始化为0
         grid[x][y] = '0'
