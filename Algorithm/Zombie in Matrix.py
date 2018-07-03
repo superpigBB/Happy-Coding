@@ -11,7 +11,67 @@
 # 0 1 0 0 0
 # return 2
 
+### Solution1: 先遍历整个矩阵然后数peopleCnt 和把zombie都放到queue里                => recommended!
+### 然后在四周找people,只要是people位置放进queue并变为Zombie， 然后把peopleCnt - 1
+### 最后queue循环完了，看peopleCnt是否为0， 如果不是return -1
+### Time: O(M*N), Space(min(M, N))
+class Solution:
+    """
+    @param grid: a 2D integer grid
+    @return: an integer
+    """
 
+    def zombie(self, grid):
+        # write your code here
+        if grid is None:
+            return -1
+
+        row = len(grid)
+        col = len(grid[0])
+
+        ## initialize peopleCnt and queue
+        from collections import deque
+        peopleCnt = 0
+        queue = deque([])
+
+        ## loop matrix
+        for i in range(row):
+            for j in range(col):
+                if grid[i][j] == 0:
+                    peopleCnt += 1
+                if grid[i][j] == 1:
+                    queue.append((i, j))
+
+        ## BFS
+        delta_x = [0, 0, 1, -1]
+        delta_y = [-1, 1, 0, 0]
+        dayCnt = 0
+        while queue:
+            dayCnt += 1
+            size = len(queue)
+            for i in range(size):
+                zombieX, zombieY = queue.popleft()
+                for j in range(len(delta_x)):
+                    newZombieX = zombieX + delta_x[j]
+                    newZombieY = zombieY + delta_y[j]
+
+                    if self.isPeople(grid, newZombieX, newZombieY):
+                        peopleCnt -= 1
+                        if peopleCnt == 0:
+                            return dayCnt
+                        grid[newZombieX][newZombieY] = 1
+                        queue.append((newZombieX, newZombieY))
+
+        return -1
+
+    def isPeople(self, grid, x, y):
+        return x >= 0 and x < len(grid) and y >= 0 and y < len(grid[0]) and grid[x][y] == 0
+
+
+
+
+    ## Solution 2: 以每次循环完整个矩阵为一层，但实际不用这么做，很费时间！ 可以一次循环完成
+## 有点慢， Time Complexity O(K*M*N) Space O(min(M,N))
 class Solution:
     """
     @param grid: a 2D integer grid
