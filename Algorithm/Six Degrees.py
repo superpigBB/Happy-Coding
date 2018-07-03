@@ -30,7 +30,6 @@ class UndirectedGraphNode:
         self.neighbors = []
 """
 
-
 ## 给了起点和终点，求最短路径问题=》分层BFS
 class Solution:
     """
@@ -39,29 +38,28 @@ class Solution:
     @param: t: Undirected graph node
     @return: an integer
     """
-
     def sixDegrees(self, graph, s, t):
         # write your code here
         if graph is None:
             return -1
         if s is t:
             return 0
-
+        
         ## 把起点放入queue里/初始化pastNodes Set
         from collections import deque
         queue = deque([s])
-        pastSet = set(s)
+        pastSet = set([s])
 
         levelCnt = 0
         while queue:
             levelCnt += 1
-            if levelCnt > 6:
-                return -1
+            # if levelCnt > 6:
+            #     return -1
             size = len(queue)
             for i in range(size):
                 node = queue.popleft()
                 ## loop all neighbors of the node
-                for neighbor in node.neighbors():
+                for neighbor in node.neighbors:
                     if neighbor.label == t.label:
                         return levelCnt
                     if neighbor not in pastSet:
