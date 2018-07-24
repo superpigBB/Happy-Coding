@@ -14,26 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Six Degrees.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Six Degrees.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="45" column="20" lean-forward="true" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Graph Valid Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Graph Valid Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Connected Component in Undirected Graph.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Connected Component in Undirected Graph.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,11 +78,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Last Position of Target.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Last Position of Target.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Last Position of Target.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="790">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state relative-caret-position="250">
+              <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="First Bad Version.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First Bad Version.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Find K Closest Elements.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Find K Closest Elements.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -149,6 +149,8 @@
         <option value="$PROJECT_DIR$/Classical Binary Search.py" />
         <option value="$PROJECT_DIR$/First Position of Target.py" />
         <option value="$PROJECT_DIR$/Last Position of Target.py" />
+        <option value="$PROJECT_DIR$/First Bad Version.py" />
+        <option value="$PROJECT_DIR$/Find K Closest Elements.py" />
       </list>
     </option>
   </component>
@@ -323,22 +325,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Knight Shortest Path.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Middle of Linked List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Move Zeros.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -718,8 +704,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Last Position of Target.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="790">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state relative-caret-position="250">
+          <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First Bad Version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Find K Closest Elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
           <folding />
         </state>
       </provider>
