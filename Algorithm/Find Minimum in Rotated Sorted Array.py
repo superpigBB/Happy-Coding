@@ -73,14 +73,14 @@ class Solution:
 
             while start + 1 < end:
                 mid = (start + end) // 2
-                if nums[mid] == LastNum:
+                if nums[mid] == LastNum:  ## 可以把第一个if和第二个elif并一起如果为了简洁 nums[mid] <= LastNum
                     end = mid
                 elif nums[mid] < LastNum:
                     end = mid
                 else:
                     start = mid + 1
 
-            if nums[start] <= LastNum:
+            if nums[start] <= LastNum:  ## 或写成 return min(nums[start], nums[end])
                 return nums[start]
             if nums[end] <= LastNum:
                 return nums[end]
