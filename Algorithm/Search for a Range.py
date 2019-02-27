@@ -32,7 +32,6 @@ class Solution:
     找first position of target value and then 找last position of target value?
     Time: O(log(n)), Space: O(1)
     """
-
     def searchRange(self, A, target):
         # write your code here
         ## corner cases
