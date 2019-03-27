@@ -79,7 +79,7 @@ class Solution:
     """
 
     def maxDepth(self, root):
-        ## corner cases
+        ## corner cases =>在这里可写可不写
         if root is None:
             return 0
             ## init global variable
