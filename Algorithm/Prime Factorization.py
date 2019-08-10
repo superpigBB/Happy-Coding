@@ -12,7 +12,7 @@ eg. 660: 2 .. 659
                                        => 5: 11 -> 11
                                                    => 找不到 -> return
 
-所以最差情况可能是每次都是2， 则Time: O(sqrt(n)), Space: O(1)
+所以最差情况可能是每次都是2， 则Time: O(sqrt(n)), Space: O(log(n))
 """
 
 class Solution:
@@ -47,8 +47,8 @@ class Solution:
 
     """
     Time Limit Exceeded 错误方法： 循环长度N直到找不到除1的factor ，
-
-    Time: O(n) => Exceeded time limit
+    
+    Time: O(n) => Exceeded time limit 
     """
     def primeFactorization1(self, num):
         # write your code here
