@@ -47,8 +47,8 @@ class Solution:
 
     """
     Time Limit Exceeded 错误方法： 循环长度N直到找不到除1的factor ，
-    
-    Time: O(n) => Exceeded time limit 
+
+    Time: O(n) => Exceeded time limit
     """
     def primeFactorization1(self, num):
         # write your code here
