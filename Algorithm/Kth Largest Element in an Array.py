@@ -108,7 +108,7 @@ class Solution:
             self.quickSelect( nums, index_aftersort, left, end) # or change to return self.quickSelect( nums, index_aftersort, left, end)
 
         else:
-            return  nums[right + 1]
+            return nums[right + 1]
 
 
 

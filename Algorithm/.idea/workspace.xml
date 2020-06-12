@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/Hadoop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hadoop/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Prime Factorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prime Factorization.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +32,6 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Algorithm" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -48,11 +44,15 @@
   </component>
   <component name="ProjectId" id="1Qu7rry19MJZaYaSEdh4Fn4XEEW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/VickyBao/Documents/GitHub/Happy-Coding/Algorithm/Two Sum II - Input array is sorted.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/AI" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -71,20 +71,8 @@
       <recent name="$PROJECT_DIR$/others" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.Search In Sorted Matrix I - Lai">
-    <configuration name="Closet in Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Remove Adjacent Repeated Charaters I - Lai">
+    <configuration name="Design Circular Deque - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +85,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Closet in Sorted Array - Lai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Design Circular Deque - Lai.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="First Occurence - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Merge Sort - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +107,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First Occurence - Lai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Merge Sort - Lai.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="K Closet In Sorted Array - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Rainbow Sort - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +129,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/K Closet In Sorted Array - Lai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rainbow Sort - Lai.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Last Occurrence - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Remove Adjacent Repeated Charaters I - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,7 +151,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Last Occurrence - Lai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Remove Adjacent Repeated Charaters I - Lai.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Search In Sorted Matrix I - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Valid Parenthese - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,7 +173,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Search In Sorted Matrix I - Lai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Valid Parenthese - Lai.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,19 +183,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.First Occurence - Lai" />
-      <item itemvalue="Python.Last Occurrence - Lai" />
-      <item itemvalue="Python.Closet in Sorted Array" />
-      <item itemvalue="Python.K Closet In Sorted Array - Lai" />
-      <item itemvalue="Python.Search In Sorted Matrix I - Lai" />
+      <item itemvalue="Python.Merge Sort - Lai" />
+      <item itemvalue="Python.Rainbow Sort - Lai" />
+      <item itemvalue="Python.Valid Parenthese - Lai" />
+      <item itemvalue="Python.Design Circular Deque - Lai" />
+      <item itemvalue="Python.Remove Adjacent Repeated Charaters I - Lai" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Search In Sorted Matrix I - Lai" />
-        <item itemvalue="Python.K Closet In Sorted Array - Lai" />
-        <item itemvalue="Python.Closet in Sorted Array" />
-        <item itemvalue="Python.Last Occurrence - Lai" />
-        <item itemvalue="Python.First Occurence - Lai" />
+        <item itemvalue="Python.Remove Adjacent Repeated Charaters I - Lai" />
+        <item itemvalue="Python.Design Circular Deque - Lai" />
+        <item itemvalue="Python.Valid Parenthese - Lai" />
+        <item itemvalue="Python.Rainbow Sort - Lai" />
+        <item itemvalue="Python.Merge Sort - Lai" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +227,10 @@
       <workItem from="1586564463799" duration="2214000" />
       <workItem from="1586742920307" duration="7217000" />
       <workItem from="1586794289279" duration="6353000" />
-      <workItem from="1587000372186" duration="54878000" />
+      <workItem from="1587000372186" duration="65169000" />
+      <workItem from="1588277799397" duration="495000" />
+      <workItem from="1588282688547" duration="112655000" />
+      <workItem from="1591927384334" duration="6469000" />
     </task>
     <servers />
   </component>
@@ -253,67 +244,113 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1191" height="381" key="GridCell.Tab.0.bottom" timestamp="1591932160574">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1191" height="381" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1591932160574" />
+    <state width="1191" height="381" key="GridCell.Tab.0.center" timestamp="1591932160573">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1191" height="381" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1591932160573" />
+    <state width="1191" height="381" key="GridCell.Tab.0.left" timestamp="1591932160573">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1191" height="381" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1591932160573" />
+    <state width="1191" height="381" key="GridCell.Tab.0.right" timestamp="1591932160574">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1191" height="381" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1591932160574" />
+    <state width="1292" height="296" key="GridCell.Tab.1.bottom" timestamp="1591914039691">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1292" height="296" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1591914039691" />
+    <state width="1292" height="296" key="GridCell.Tab.1.center" timestamp="1591914039690">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1292" height="296" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1591914039690" />
+    <state width="1292" height="296" key="GridCell.Tab.1.left" timestamp="1591914039690">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1292" height="296" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1591914039690" />
+    <state width="1292" height="296" key="GridCell.Tab.1.right" timestamp="1591914039690">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1292" height="296" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1591914039690" />
+    <state x="848" y="511" key="SettingsEditor" timestamp="1589423410595">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="848" y="511" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1589423410595" />
+    <state x="1201" y="447" width="648" height="486" key="find.popup" timestamp="1591933106612">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1201" y="447" width="648" height="486" key="find.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1591933106612" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1588454927275">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1588454927275" />
+    <state x="306" y="368" width="670" height="676" key="search.everywhere.popup" timestamp="1591067147798">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="306" y="368" width="670" height="676" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1591067147798" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/K Closet In Sorted Array - Lai.py</url>
-          <line>96</line>
-          <option name="timeStamp" value="16" />
+          <url>file://$PROJECT_DIR$/AI/test2.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Search In Sorted Matrix I - Lai.py</url>
-          <line>46</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Search In Sorted Matrix I - Lai.py</url>
-          <line>44</line>
-          <option name="timeStamp" value="22" />
+          <url>file://$PROJECT_DIR$/AI/test2.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1587435360230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
-    <SUITE FILE_PATH="coverage/Algorithm$Intersection_of_Two_Arrays.coverage" NAME="Intersection of Two Arrays Coverage Results" MODIFIED="1586660038598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$test.coverage" NAME="test Coverage Results" MODIFIED="1587347728007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+    <SUITE FILE_PATH="coverage/Algorithm$insertion_sort___Lai.coverage" NAME="insertion_sort - Lai Coverage Results" MODIFIED="1589508451373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Square_Root_I___Lai.coverage" NAME="Square Root I - Lai Coverage Results" MODIFIED="1587960508865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Reverse_Linked_list__recursive____Lai.coverage" NAME="Reverse Linked list (recursive) - Lai Coverage Results" MODIFIED="1589154048707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Design_Circular_Deque___Lai.coverage" NAME="Design Circular Deque - Lai Coverage Results" MODIFIED="1591330689796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Check_If_Linked_List_Has_a_cycle___Lai.coverage" NAME="Check If Linked List Has a cycle - Lai Coverage Results" MODIFIED="1588548837152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Merge_Two_Sorted_Linked_Lists___Lai.coverage" NAME="Merge Two Sorted Linked Lists - Lai Coverage Results" MODIFIED="1589165665477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1589511398226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+    <SUITE FILE_PATH="coverage/Algorithm$Fibonacci_Number___Lai.coverage" NAME="Fibonacci Number - Lai Coverage Results" MODIFIED="1588546431434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Bubble_Sort.coverage" NAME="Bubble Sort Coverage Results" MODIFIED="1587093003168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Intersection_of_Two_Arrays.coverage" NAME="Intersection of Two Arrays Coverage Results" MODIFIED="1586660038598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Rainbow_Sort___Lai.coverage" NAME="Rainbow Sort - Lai Coverage Results" MODIFIED="1590816772481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Selection_Sort.coverage" NAME="Selection Sort Coverage Results" MODIFIED="1586754843972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Closet_in_Sorted_Array.coverage" NAME="Closet in Sorted Array Coverage Results" MODIFIED="1587443082693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Sort_Integers_II.coverage" NAME="Sort Integers II Coverage Results" MODIFIED="1590633958544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$test.coverage" NAME="test Coverage Results" MODIFIED="1587347728007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+    <SUITE FILE_PATH="coverage/Algorithm$Middle_Node_of_Linked_List___Lai.coverage" NAME="Middle Node of Linked List - Lai Coverage Results" MODIFIED="1588476453251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$K_Closet_In_Sorted_Array___Lai.coverage" NAME="K Closet In Sorted Array - Lai Coverage Results" MODIFIED="1587879393151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Quick_Sort___Lai.coverage" NAME="Quick Sort - Lai Coverage Results" MODIFIED="1590633965614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Remove_Adjacent_Repeated_Charaters_I___Lai.coverage" NAME="Remove Adjacent Repeated Charaters I - Lai Coverage Results" MODIFIED="1591932160565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$First_Occurence___Lai.coverage" NAME="First Occurence - Lai Coverage Results" MODIFIED="1587439866396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Last_Occurrence___Lai.coverage" NAME="Last Occurrence - Lai Coverage Results" MODIFIED="1587441141448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Search_In_Sorted_Matrix_I___Lai.coverage" NAME="Search In Sorted Matrix I - Lai Coverage Results" MODIFIED="1587940403484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Closet_in_Sorted_Array.coverage" NAME="Closet in Sorted Array Coverage Results" MODIFIED="1587443082693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$K_Closet_In_Sorted_Array___Lai.coverage" NAME="K Closet In Sorted Array - Lai Coverage Results" MODIFIED="1587879393151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Selection_Sort.coverage" NAME="Selection Sort Coverage Results" MODIFIED="1586754843972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <SUITE FILE_PATH="coverage/Algorithm$Reverse_Linked_List__iterative_____Lai.coverage" NAME="Reverse Linked List (iterative)  - Lai Coverage Results" MODIFIED="1589150980724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Valid_Parenthese___Lai.coverage" NAME="Valid Parenthese - Lai Coverage Results" MODIFIED="1591070782380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Total_Occurrence___Lai.coverage" NAME="Total Occurrence - Lai Coverage Results" MODIFIED="1587957268852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Number_of_Nodes___Lai.coverage" NAME="Number of Nodes - Lai Coverage Results" MODIFIED="1589064141590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Merge_Sort___Lai.coverage" NAME="Merge Sort - Lai Coverage Results" MODIFIED="1590636300023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

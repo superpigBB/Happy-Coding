@@ -19,10 +19,11 @@ class Solution:
     def sortIntegers2(self, A):
         # write your code here
         if len(A) == 0 or len(A) == 1:
-            return
+            return A
 
         ## quicksort divide and conquer
         self.quicksort(A, 0, len(A) - 1)
+        return A
 
     def quicksort(self, A, start, end):
         ### termination condition for a recursion
@@ -31,7 +32,10 @@ class Solution:
 
         left, right = start, end
 
-        pivot = A[(left + right) / 2]
+        # 可以取mid index value 或 pivot取随机数
+        # pivot = array[(left + right) / 2]
+        import random
+        pivot = A[left + int(random.random() * (right - left + 1))]
 
         while left <= right:
             while left <= right and A[left] < pivot:
@@ -41,17 +45,14 @@ class Solution:
                 right -= 1
 
             if left <= right:
-                tmp = A[left]
-                A[left] = A[right]
-                A[right] = tmp
-
+                A[left], A[right] = A[right], A[left]
                 right -= 1
                 left += 1
 
         self.quicksort(A, start, right)
         self.quicksort(A, left, end)
 
-
+print(Solution().sortIntegers2([3,5,1,2,4,8]))    # 1 2 3 4 5 8
 ### Solution2: merge sort
 ### divide and conquer / recursion => Time Complexity O(NlogN), Space O(N)
 
@@ -64,16 +65,17 @@ class Solution:
     ### merge sort
     def sortIntegers2(self, A):
         if A is None or len(A) == 0 or len(A) == 1:
-            return
+            return A
 
         newlist = [0] * len(A)
         self.mergeSort(A, 0, len(A) - 1, newlist)
+        return A
 
     def mergeSort(self, A, start, end, newlist):
         if start >= end:
             return
 
-        mid = (start + end) / 2
+        mid = (start + end) // 2
 
         self.mergeSort(A, start, mid, newlist)
         self.mergeSort(A, mid + 1, end, newlist)
@@ -107,3 +109,5 @@ class Solution:
 
         for index in range(start, end + 1):
             A[index] = newlist[index]
+
+print(Solution().sortIntegers2([3,5,1,2,4,8]))    # 1 2 3 4 5 8

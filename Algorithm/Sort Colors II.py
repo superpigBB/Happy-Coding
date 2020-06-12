@@ -1,4 +1,5 @@
-# Given an array of n objects with k different colors (numbered from 1 to k), sort them so that objects of the same color are adjacent, with the colors in the order 1, 2, ... k.
+# Given an array of n objects with k different colors (numbered from 1 to k), sort them so that objects of the same color
+# are adjacent, with the colors in the order 1, 2, ... k.
 #
 #  Notice
 # You are not suppose to use the library's sort function for this problem.
@@ -9,7 +10,8 @@
 # Given colors=[3, 2, 2, 1, 4], k=4, your code should sort colors in-place to [1, 2, 2, 3, 4].
 #
 # Challenge
-# A rather straight forward solution is a two-pass algorithm using counting sort. That will cost O(k) extra memory. Can you do it without using extra memory?
+# A rather straight forward solution is a two-pass algorithm using counting sort. That will cost O(k) extra memory.
+# Can you do it without using extra memory?
 
 
 
@@ -81,8 +83,7 @@ class Solution:
 
         ## quick sort to get left part < pivot_value, right part > pivot_value
         while left <= right:
-            while left <= right and colors[
-                left] <= pivot_value:  ## 唯一和quick sort不一样的地方是这里colors[left] <= pivot_value而不应该是 < pivot_value，必须让一边完全<= pivot value，另一边没有pivot_value并大于
+            while left <= right and colors[left] <= pivot_value:  ## 唯一和quick sort不一样的地方是这里colors[left] <= pivot_value而不应该是 < pivot_value，必须让一边完全<= pivot value，另一边没有pivot_value并大于
                 left += 1
 
             while left <= right and colors[right] > pivot_value:
