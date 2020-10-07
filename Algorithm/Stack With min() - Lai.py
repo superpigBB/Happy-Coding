@@ -21,7 +21,7 @@ class Solution(object):
         initialize your data structure here.
         """
         self.stack = []
-        self.min_stack = []  # store min value of each operation
+        self.min_stack = []  # helper_stack => store min value of each operation
 
     def push(self, x):
         """

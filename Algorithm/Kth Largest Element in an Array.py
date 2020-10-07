@@ -102,10 +102,10 @@ class Solution:
         ## to determine which half we should continue sorting and abandon another half
         ## left: [start, right], right: [left, end], middle:  nums[right + 1] or not exist => totally 3 parts
         if index_aftersort <= right:
-            self.quickSelect( nums, index_aftersort, start, right) # or change to return self.quickSelect( nums, index_aftersort, start, right)
+            self.quickSelect( nums, index_aftersort, start, right)  # or change to return self.quickSelect( nums, index_aftersort, start, right)
 
         elif index_aftersort > left:
-            self.quickSelect( nums, index_aftersort, left, end) # or change to return self.quickSelect( nums, index_aftersort, left, end)
+            self.quickSelect( nums, index_aftersort, left, end)  # or change to return self.quickSelect( nums, index_aftersort, left, end)
 
         else:
             return nums[right + 1]
@@ -138,7 +138,7 @@ class Solution:
         left, right = start, end
         ## take middle index of array as pivot value
         mid = (start + end) // 2
-        pivot_value =  nums[mid]
+        pivot_value = nums[mid]
 
         ## similar quickSort template for sorting left and right
         while left <= right:
@@ -162,7 +162,7 @@ class Solution:
             return self.quickSelect( nums, k - (left - start), left, end)
 
         else:
-            return  nums[right + 1]
+            return nums[right + 1]
 
 print(Solution().findKthLargest([3, 3, 3, 3, 4, 3, 3, 3, 3], 9)) #3
 print(Solution().findKthLargest([3,3,3,3,3,3,3,3,3], 8)) #3

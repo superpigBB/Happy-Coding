@@ -1,38 +1,36 @@
-# Definition for singly-linked list.
-class ListNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.next = None
-
-def delete_nodes(head, target):
+class Solution(object):
     """
-    Time: O(n)
-    Space: O(1)
+    Time: O(1)
+    Space: O(n)
     """
-    # write your solution here
-    """corner cases"""
-    if head is None:
-        return head
 
-    # create new dummy head due to head might change
-    new_head = ListNode(None)
-    new_head.next = head
-    cur = head
-    # head = new_head
-    prev = new_head
+    def __init__(self):
+        self.stack = []
+        self.min_stack = []  # store min value of each operation
 
-    while cur is not None:
-        if cur.val == target:
-            prev.next = cur.next
+    def push(self, x):
+        self.stack.append(x)
+        # compare input value and min value in helper stack
+        if not self.min_stack:  # if min_stack is empty
+            self.min_stack.append(x)
         else:
-            prev = prev.next
+            self.min_stack.append(min(self.min_stack[-1], x))
 
-        cur = cur.next
+    def pop(self):
+        if len(self.stack) == 0:
+            return -1
 
-    return new_head.next
+        top_val = self.stack[-1]
+        self.stack = self.stack[:-1]
+        self.min_stack = self.min_stack[:-1]
+        return top_val
 
+    def top(self):
+        if len(self.stack) == 0:
+            return -1
+        return self.stack[-1]
 
-n1 = ListNode(10); n2 = ListNode(8); n3= ListNode(5); n4 = ListNode(1); n5 = ListNode(8)
-n1.next = n2; n2.next = n3; n3.next = n4; n4.next = n5;
-
-print(delete_nodes(n1, 8))
+    def getMin(self):
+        if len(self.stack) == 0:
+          return -1
+        return self.min_stack[-1]

@@ -71,8 +71,8 @@
       <recent name="$PROJECT_DIR$/others" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Remove Adjacent Repeated Charaters I - Lai">
-    <configuration name="Design Circular Deque - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.In-order Traversal Of Binary Tree (recursive) - Lai">
+    <configuration name="In-order Traversal Of Binary Tree (recursive) - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +85,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Design Circular Deque - Lai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/In-order Traversal Of Binary Tree (recursive) - Lai.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Merge Sort - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="K Smallest In Unsorted Array - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +107,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Merge Sort - Lai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/K Smallest In Unsorted Array - Lai.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Rainbow Sort - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Kth Largest Element in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +129,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rainbow Sort - Lai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kth Largest Element in an Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Remove Adjacent Repeated Charaters I - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Second Larget Value in BST - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +151,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Remove Adjacent Repeated Charaters I - Lai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Second Larget Value in BST - Lai.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Valid Parenthese - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,12 +168,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Valid Parenthese - Lai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AI/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,19 +183,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Merge Sort - Lai" />
-      <item itemvalue="Python.Rainbow Sort - Lai" />
-      <item itemvalue="Python.Valid Parenthese - Lai" />
-      <item itemvalue="Python.Design Circular Deque - Lai" />
-      <item itemvalue="Python.Remove Adjacent Repeated Charaters I - Lai" />
+      <item itemvalue="Python.K Smallest In Unsorted Array - Lai" />
+      <item itemvalue="Python.Kth Largest Element in an Array" />
+      <item itemvalue="Python.Second Larget Value in BST - Lai" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.In-order Traversal Of Binary Tree (recursive) - Lai" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Remove Adjacent Repeated Charaters I - Lai" />
-        <item itemvalue="Python.Design Circular Deque - Lai" />
-        <item itemvalue="Python.Valid Parenthese - Lai" />
-        <item itemvalue="Python.Rainbow Sort - Lai" />
-        <item itemvalue="Python.Merge Sort - Lai" />
+        <item itemvalue="Python.In-order Traversal Of Binary Tree (recursive) - Lai" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.Second Larget Value in BST - Lai" />
+        <item itemvalue="Python.K Smallest In Unsorted Array - Lai" />
+        <item itemvalue="Python.Kth Largest Element in an Array" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +230,10 @@
       <workItem from="1587000372186" duration="65169000" />
       <workItem from="1588277799397" duration="495000" />
       <workItem from="1588282688547" duration="112655000" />
-      <workItem from="1591927384334" duration="6469000" />
+      <workItem from="1591927384334" duration="20988000" />
+      <workItem from="1592701237176" duration="3108000" />
+      <workItem from="1598642750864" duration="11822000" />
+      <workItem from="1601859419156" duration="1322000" />
     </task>
     <servers />
   </component>
@@ -259,70 +262,67 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1191" height="381" key="GridCell.Tab.0.bottom" timestamp="1591932160574">
+    <state width="1640" height="381" key="GridCell.Tab.0.bottom" timestamp="1601857973223">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1191" height="381" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1591932160574" />
-    <state width="1191" height="381" key="GridCell.Tab.0.center" timestamp="1591932160573">
+    <state width="1640" height="381" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1601857973223" />
+    <state width="1640" height="381" key="GridCell.Tab.0.center" timestamp="1601857973222">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1191" height="381" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1591932160573" />
-    <state width="1191" height="381" key="GridCell.Tab.0.left" timestamp="1591932160573">
+    <state width="1640" height="381" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1601857973222" />
+    <state width="1640" height="381" key="GridCell.Tab.0.left" timestamp="1601857973222">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1191" height="381" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1591932160573" />
-    <state width="1191" height="381" key="GridCell.Tab.0.right" timestamp="1591932160574">
+    <state width="1640" height="381" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1601857973222" />
+    <state width="1640" height="381" key="GridCell.Tab.0.right" timestamp="1601857973223">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1191" height="381" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1591932160574" />
-    <state width="1292" height="296" key="GridCell.Tab.1.bottom" timestamp="1591914039691">
+    <state width="1640" height="381" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1601857973223" />
+    <state width="1640" height="425" key="GridCell.Tab.1.bottom" timestamp="1601857973166">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1292" height="296" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1591914039691" />
-    <state width="1292" height="296" key="GridCell.Tab.1.center" timestamp="1591914039690">
+    <state width="1640" height="425" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1601857973166" />
+    <state width="1640" height="425" key="GridCell.Tab.1.center" timestamp="1601857973166">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1292" height="296" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1591914039690" />
-    <state width="1292" height="296" key="GridCell.Tab.1.left" timestamp="1591914039690">
+    <state width="1640" height="425" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1601857973166" />
+    <state width="1640" height="425" key="GridCell.Tab.1.left" timestamp="1601857973166">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1292" height="296" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1591914039690" />
-    <state width="1292" height="296" key="GridCell.Tab.1.right" timestamp="1591914039690">
+    <state width="1640" height="425" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1601857973166" />
+    <state width="1640" height="425" key="GridCell.Tab.1.right" timestamp="1601857973166">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1292" height="296" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1591914039690" />
-    <state x="848" y="511" key="SettingsEditor" timestamp="1589423410595">
-      <screen x="0" y="23" width="2560" height="1337" />
-    </state>
-    <state x="848" y="511" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1589423410595" />
-    <state x="1201" y="447" width="648" height="486" key="find.popup" timestamp="1591933106612">
-      <screen x="0" y="23" width="2560" height="1337" />
-    </state>
-    <state x="1201" y="447" width="648" height="486" key="find.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1591933106612" />
-    <state width="600" height="428" key="javadoc.popup" timestamp="1588454927275">
-      <screen x="0" y="23" width="2560" height="1337" />
-    </state>
-    <state width="600" height="428" key="javadoc.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1588454927275" />
-    <state x="306" y="368" width="670" height="676" key="search.everywhere.popup" timestamp="1591067147798">
-      <screen x="0" y="23" width="2560" height="1337" />
-    </state>
-    <state x="306" y="368" width="670" height="676" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1591067147798" />
+    <state width="1640" height="425" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1601857973166" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/AI/test2.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="48" />
+          <url>file://$PROJECT_DIR$/In-order Traversal Of Binary Tree (recursive) - Lai.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/AI/test2.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="50" />
+          <url>file://$PROJECT_DIR$/In-order Traversal Of Binary Tree (recursive) - Lai.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="list" language="Python" />
+        <watch expression="list" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$insertion_sort___Lai.coverage" NAME="insertion_sort - Lai Coverage Results" MODIFIED="1589508451373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -331,7 +331,8 @@
     <SUITE FILE_PATH="coverage/Algorithm$Design_Circular_Deque___Lai.coverage" NAME="Design Circular Deque - Lai Coverage Results" MODIFIED="1591330689796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Check_If_Linked_List_Has_a_cycle___Lai.coverage" NAME="Check If Linked List Has a cycle - Lai Coverage Results" MODIFIED="1588548837152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Merge_Two_Sorted_Linked_Lists___Lai.coverage" NAME="Merge Two Sorted Linked Lists - Lai Coverage Results" MODIFIED="1589165665477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1589511398226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+    <SUITE FILE_PATH="coverage/Algorithm$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1592023329282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+    <SUITE FILE_PATH="coverage/Algorithm$K_Smallest_In_Unsorted_Array___Lai.coverage" NAME="K Smallest In Unsorted Array - Lai Coverage Results" MODIFIED="1591946642536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Fibonacci_Number___Lai.coverage" NAME="Fibonacci Number - Lai Coverage Results" MODIFIED="1588546431434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Bubble_Sort.coverage" NAME="Bubble Sort Coverage Results" MODIFIED="1587093003168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Intersection_of_Two_Arrays.coverage" NAME="Intersection of Two Arrays Coverage Results" MODIFIED="1586660038598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -339,9 +340,12 @@
     <SUITE FILE_PATH="coverage/Algorithm$Selection_Sort.coverage" NAME="Selection Sort Coverage Results" MODIFIED="1586754843972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Closet_in_Sorted_Array.coverage" NAME="Closet in Sorted Array Coverage Results" MODIFIED="1587443082693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Sort_Integers_II.coverage" NAME="Sort Integers II Coverage Results" MODIFIED="1590633958544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$In_order_Traversal_Of_Binary_Tree__recursive____Lai.coverage" NAME="In-order Traversal Of Binary Tree (recursive) - Lai Coverage Results" MODIFIED="1601354325589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$test.coverage" NAME="test Coverage Results" MODIFIED="1587347728007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
     <SUITE FILE_PATH="coverage/Algorithm$Middle_Node_of_Linked_List___Lai.coverage" NAME="Middle Node of Linked List - Lai Coverage Results" MODIFIED="1588476453251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Second_Larget_Value_in_BST___Lai.coverage" NAME="Second Larget Value in BST - Lai Coverage Results" MODIFIED="1592022367614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$K_Closet_In_Sorted_Array___Lai.coverage" NAME="K Closet In Sorted Array - Lai Coverage Results" MODIFIED="1587879393151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$Kth_Largest_Element_in_an_Array.coverage" NAME="Kth Largest Element in an Array Coverage Results" MODIFIED="1591939805436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Quick_Sort___Lai.coverage" NAME="Quick Sort - Lai Coverage Results" MODIFIED="1590633965614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Remove_Adjacent_Repeated_Charaters_I___Lai.coverage" NAME="Remove Adjacent Repeated Charaters I - Lai Coverage Results" MODIFIED="1591932160565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$First_Occurence___Lai.coverage" NAME="First Occurence - Lai Coverage Results" MODIFIED="1587439866396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
