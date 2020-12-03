@@ -1,36 +1,34 @@
 class Solution(object):
     """
-    Time: O(1)
-    Space: O(n)
+    解题思路: 利用Min HEAP， 并用set来记录每一个array所在array组里的位置和array里的位置
+    Time: O(nlogk)
+    Space: O(k)
     """
 
-    def __init__(self):
-        self.stack = []
-        self.min_stack = []  # store min value of each operation
+    def merge(self, arrayOfArrays):
+        """
+        input: int[][] arrayOfArrays
+        return: int[]
+        """
+        # write your solution here
+        # corner cases
+        if not arrayOfArrays or len(arrayOfArrays) == 0:
+            return []
 
-    def push(self, x):
-        self.stack.append(x)
-        # compare input value and min value in helper stack
-        if not self.min_stack:  # if min_stack is empty
-            self.min_stack.append(x)
-        else:
-            self.min_stack.append(min(self.min_stack[-1], x))
+        import heapq
+        # store first element of each array into min heap
+        heap = []
 
-    def pop(self):
-        if len(self.stack) == 0:
-            return -1
+        for i in range(len(arrayOfArrays)):
+            heapq.heappush(heap, (arrayOfArrays[i], i, 0))
 
-        top_val = self.stack[-1]
-        self.stack = self.stack[:-1]
-        self.min_stack = self.min_stack[:-1]
-        return top_val
+        result = []
+        while heap:
+            e, array_i, e_i = heapq.heappop(heap)
+            result.append(e)
+            if e_i + 1 < len(arrayOfArrays[array_i]):
+                heapq.heappush(heap, (arrayOfArrays[array_i][e_i + 1], array_i, e_i + 1))
 
-    def top(self):
-        if len(self.stack) == 0:
-            return -1
-        return self.stack[-1]
+        return result
 
-    def getMin(self):
-        if len(self.stack) == 0:
-          return -1
-        return self.min_stack[-1]
+print (Solution().merge([[1,2], [5,8], [4, 7]]))

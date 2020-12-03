@@ -43,11 +43,26 @@ class TreeNode(object):
         self.left = None
         self.right = None
 
-
 class Solution(object):
+    """
+    解题思路： recursion
+    Time： O(n)
+    Space： O（h）
+    """
+
     def findHeight(self, root):
         """
         input: TreeNode root
         return: int
         """
         # write your solution here
+        # base case: root only
+        if root is None:
+            return 0
+
+        # left and right node
+        left_height = self.findHeight(root.left)
+        right_height = self.findHeight(root.right)
+
+        # Tree Height
+        return max(left_height, right_height) + 1
