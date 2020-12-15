@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="855194f5-2c85-4096-be63-27ecfe403008" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary Tree Path Sum To Target I - Lai.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Check If Binary Tree Is Balanced - Lai.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Post-order Traversal Of Binary Tree (recursive) - Lai.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pre-order Traversal Of Binary Tree (recursive) - Lai.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AI/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/In-order Traversal Of Binary Tree (recursive) - Lai.py" beforeDir="false" afterPath="$PROJECT_DIR$/In-order Traversal Of Binary Tree (recursive) - Lai.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Invert Binary Tree - Lai.py" beforeDir="false" afterPath="$PROJECT_DIR$/Invert Binary Tree - Lai.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/K Smallest In Unsorted Array - Lai.py" beforeDir="false" afterPath="$PROJECT_DIR$/K Smallest In Unsorted Array - Lai.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kth Largest Element in an Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kth Largest Element in an Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Merge Sort - Lai.py" beforeDir="false" afterPath="$PROJECT_DIR$/Merge Sort - Lai.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quick Sort - Lai.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quick Sort - Lai.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rainbow Sort - Lai.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rainbow Sort - Lai.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selection Sort - Lai.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selection Sort - Lai.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,7 +239,7 @@
       <workItem from="1605586806413" duration="28182000" />
       <workItem from="1608008204611" duration="13000" />
       <workItem from="1608008248623" duration="5679000" />
-      <workItem from="1608019388331" duration="962000" />
+      <workItem from="1608019388331" duration="2651000" />
     </task>
     <servers />
   </component>
@@ -286,46 +276,46 @@
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state x="1330" y="125" width="1230" height="1107" key="DiffContextDialog/0.25.2560.1330@0.25.2560.1330" timestamp="1607236034544" />
-    <state width="1406" height="368" key="GridCell.Tab.0.bottom" timestamp="1608019949841">
+    <state width="1406" height="368" key="GridCell.Tab.0.bottom" timestamp="1608021919449">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673732" />
-    <state width="1406" height="368" key="GridCell.Tab.0.bottom/0.25.2560.1330@0.25.2560.1330" timestamp="1608019949841" />
-    <state width="1406" height="368" key="GridCell.Tab.0.center" timestamp="1608019949841">
+    <state width="1406" height="368" key="GridCell.Tab.0.bottom/0.25.2560.1330@0.25.2560.1330" timestamp="1608021919449" />
+    <state width="1406" height="368" key="GridCell.Tab.0.center" timestamp="1608021919449">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673732" />
-    <state width="1406" height="368" key="GridCell.Tab.0.center/0.25.2560.1330@0.25.2560.1330" timestamp="1608019949841" />
-    <state width="1406" height="368" key="GridCell.Tab.0.left" timestamp="1608019949841">
+    <state width="1406" height="368" key="GridCell.Tab.0.center/0.25.2560.1330@0.25.2560.1330" timestamp="1608021919449" />
+    <state width="1406" height="368" key="GridCell.Tab.0.left" timestamp="1608021919448">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673731" />
-    <state width="1406" height="368" key="GridCell.Tab.0.left/0.25.2560.1330@0.25.2560.1330" timestamp="1608019949841" />
-    <state width="1406" height="368" key="GridCell.Tab.0.right" timestamp="1608019949841">
+    <state width="1406" height="368" key="GridCell.Tab.0.left/0.25.2560.1330@0.25.2560.1330" timestamp="1608021919448" />
+    <state width="1406" height="368" key="GridCell.Tab.0.right" timestamp="1608021919449">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673732" />
-    <state width="1406" height="368" key="GridCell.Tab.0.right/0.25.2560.1330@0.25.2560.1330" timestamp="1608019949841" />
-    <state width="1406" height="329" key="GridCell.Tab.1.bottom" timestamp="1608019374302">
+    <state width="1406" height="368" key="GridCell.Tab.0.right/0.25.2560.1330@0.25.2560.1330" timestamp="1608021919449" />
+    <state width="1406" height="329" key="GridCell.Tab.1.bottom" timestamp="1608021665625">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673733" />
-    <state width="1406" height="329" key="GridCell.Tab.1.bottom/0.25.2560.1330@0.25.2560.1330" timestamp="1608019374302" />
-    <state width="1406" height="329" key="GridCell.Tab.1.center" timestamp="1608019374302">
+    <state width="1406" height="329" key="GridCell.Tab.1.bottom/0.25.2560.1330@0.25.2560.1330" timestamp="1608021665625" />
+    <state width="1406" height="329" key="GridCell.Tab.1.center" timestamp="1608021665624">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673733" />
-    <state width="1406" height="329" key="GridCell.Tab.1.center/0.25.2560.1330@0.25.2560.1330" timestamp="1608019374302" />
-    <state width="1406" height="329" key="GridCell.Tab.1.left" timestamp="1608019374301">
+    <state width="1406" height="329" key="GridCell.Tab.1.center/0.25.2560.1330@0.25.2560.1330" timestamp="1608021665624" />
+    <state width="1406" height="329" key="GridCell.Tab.1.left" timestamp="1608021665624">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673732" />
-    <state width="1406" height="329" key="GridCell.Tab.1.left/0.25.2560.1330@0.25.2560.1330" timestamp="1608019374301" />
-    <state width="1406" height="329" key="GridCell.Tab.1.right" timestamp="1608019374302">
+    <state width="1406" height="329" key="GridCell.Tab.1.left/0.25.2560.1330@0.25.2560.1330" timestamp="1608021665624" />
+    <state width="1406" height="329" key="GridCell.Tab.1.right" timestamp="1608021665625">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673733" />
-    <state width="1406" height="329" key="GridCell.Tab.1.right/0.25.2560.1330@0.25.2560.1330" timestamp="1608019374302" />
+    <state width="1406" height="329" key="GridCell.Tab.1.right/0.25.2560.1330@0.25.2560.1330" timestamp="1608021665625" />
     <state x="813" y="174" key="SettingsEditor" timestamp="1608005937123">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
@@ -341,6 +331,38 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AI/test2.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AI/test2.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AI/test2.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AI/test2.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AI/test2.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AI/test2.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -363,7 +385,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$Design_Circular_Deque___Lai.coverage" NAME="Design Circular Deque - Lai Coverage Results" MODIFIED="1591330689796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Check_If_Linked_List_Has_a_cycle___Lai.coverage" NAME="Check If Linked List Has a cycle - Lai Coverage Results" MODIFIED="1588548837152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Merge_Two_Sorted_Linked_Lists___Lai.coverage" NAME="Merge Two Sorted Linked Lists - Lai Coverage Results" MODIFIED="1589165665477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1608019949832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+    <SUITE FILE_PATH="coverage/Algorithm$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1608021919441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
     <SUITE FILE_PATH="coverage/Algorithm$K_Smallest_In_Unsorted_Array___Lai.coverage" NAME="K Smallest In Unsorted Array - Lai Coverage Results" MODIFIED="1591946642536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Fibonacci_Number___Lai.coverage" NAME="Fibonacci Number - Lai Coverage Results" MODIFIED="1588546431434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Bubble_Sort.coverage" NAME="Bubble Sort Coverage Results" MODIFIED="1587093003168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

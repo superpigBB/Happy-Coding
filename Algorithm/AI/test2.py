@@ -13,6 +13,10 @@ class Solution:
 
     """Quick Select Function"""
     def quickselect(self, array, start, end, target_index):
+        # base cases
+        if start == end:
+            return array[start]
+
         # define two moving pointers
         left, right = start, end
         # take middle index of array as pivot value

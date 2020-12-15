@@ -19,6 +19,10 @@ class Solution:
 
     """Quick Select Function"""
     def quickselect(self, array, start, end, target_index):
+        # base cases
+        if start == end:
+            return array[start]
+
         # define two moving pointers
         left, right = start, end
         # take middle index of array as pivot value
@@ -40,8 +44,7 @@ class Solution:
 
         """
            unlike quick sort, we only need to do quickselect on at most one partion 
-           if the pivot is already the kth smallest element, we can directly return
-           if the pivot is already the kth smallest element, we can directly return
+           if the pivot is already the kth largest element, we can directly return
         """
         if target_index <= right:   # only need to recursively call quick select on the left partition
             return self.quickselect(array, start, right, target_index)
@@ -49,7 +52,6 @@ class Solution:
             return self.quickselect(array, left, end, target_index)
         else:
             return array[target_index]
-
 
 print(Solution().findKthLargest([3, 3, 3, 3, 4, 3, 3, 3, 3], 9)) #3
 print(Solution().findKthLargest([3,3,3,3,3,3,3,3,3], 8)) #3

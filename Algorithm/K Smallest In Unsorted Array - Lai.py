@@ -73,7 +73,6 @@ class Solution(object):
     在找k smallest or largest题，最好用heap而不是quick select,除非问kth smallest/largest
     以下解法for kthlargest
     """
-
     def findKthLargest(self, nums, k):
         # # corner cases
         # if nums is None or len(nums) == 0:
@@ -82,6 +81,10 @@ class Solution(object):
 
     """Quick Select Function"""
     def quickselect(self, array, start, end, target_index):
+        # base cases
+        if start == end:
+            return array[start]
+
         # define two moving pointers
         left, right = start, end
         # take middle index of array as pivot value
@@ -103,7 +106,6 @@ class Solution(object):
 
         """
            unlike quick sort, we only need to do quickselect on at most one partion 
-           if the pivot is already the kth smallest element, we can directly return
            if the pivot is already the kth smallest element, we can directly return
         """
         if target_index <= right:   # only need to recursively call quick select on the left partition
