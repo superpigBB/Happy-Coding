@@ -33,29 +33,35 @@ class Solution(object):
                             To Do: 必须结合九章的advanced Rainbow Sort, 进行总结
                             九章rainbowSort Review => similar to jiuzhang's Sort Color I
     """
-    def rainbowSort(self, list):
+
+    def rainbowSort(self, array):
         """
-        input: int[] list
+        input: int[] array
         return: int[]
         """
         # write your solution here
-        """Corner Cases"""
-        if list is None or len(list) == 0 or len(list) == 1:
-            return list
+        # corner cases
+        if array is None or len(array) <= 1:
+            return array
 
-        left = 0; right = len(list) - 1
-        index = 0
-        while index <= right:
-            if list[index] == -1:
-                list[index], list[left] = list[left], list[index]
-                left += 1
-                index += 1
-            elif list[index] == 1:
-                list[index], list[right] = list[right], list[index]
-                right -= 1
-            else:
-                index += 1
+        i, j = 0, 0;
+        k = len(array) - 1
 
-        return list
+        while j <= k:
+            if array[j] == -1:
+                # swap j和i位置上的数如果i上的数不是-1，否则交换没意义
+                if array[i] != -1:
+                    array[i], array[j] = array[j], array[i]
+                i += 1
+                j += 1
+            elif array[j] == 0:
+                j += 1
+            elif array[j] == 1:
+                # 只有仅当交换位置k ！=1 的时候才需要交换，否则只是倒退k
+                if array[k] != 1:
+                    array[j], array[k] = array[k], array[j]
+                k -= 1
+
+        return array
 
 print(Solution().rainbowSort([1,1,0,-1,0,1,-1]))  #[-1, -1, 0, 0, 1, 1, 1]

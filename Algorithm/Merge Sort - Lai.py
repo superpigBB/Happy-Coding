@@ -71,8 +71,14 @@ class Solution(object):
             index += 1
             right += 1
 
+        """
+        two different ways
+        """
         for index in range(start, end + 1):
             list[index] = newlist[index]
+        # OR it can be converted as
+        list[start:end + 1] = newlist[start:index]
+
 
 # print(Solution().mergeSort([1]))    # 1
 print(Solution().mergeSort([3, 2, 1]))    # [1, 2, 3]

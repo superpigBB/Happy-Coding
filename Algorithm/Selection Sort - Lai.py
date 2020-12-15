@@ -25,20 +25,17 @@ class Solution(object):
         return: int[]
         """
         # write your solution here
-        """corner cases"""
-        if len(array) == 0 or array is None:
-            return []
+        # corner cases
+        if array is None or len(array) == 0 or len(array) == 1:
+            return array
 
-        for i in range(len(array)):
-            min_index = i  # set smallest number at the first place of list
+        for i in range(len(array) - 1):
+            global_min = i
             for j in range(i + 1, len(array)):
-                if array[j] < array[min_index]:
-                    min_index = j
-
-            if min_index == i:
-                pass # if min index已经在unsorted list最左边，不用交换
-            else:
-                array[i], array[min_index] = array[min_index], array[i]
+                if array[j] < array[global_min]:
+                    global_min = j
+            if global_min != i:
+                array[i], array[global_min] = array[global_min], array[i]
 
         return array
 

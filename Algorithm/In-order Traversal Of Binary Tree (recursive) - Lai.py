@@ -58,7 +58,7 @@ class Solution(object):
         """
         # write your solution here
         # root itself
-        return_list = []
+        return_list = list()
         self.traverse(root, return_list)
         return return_list
 
