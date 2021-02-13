@@ -237,7 +237,8 @@
       <workItem from="1608008204611" duration="13000" />
       <workItem from="1608008248623" duration="5679000" />
       <workItem from="1608019388331" duration="6427000" />
-      <workItem from="1609384344137" duration="6501000" />
+      <workItem from="1609384344137" duration="7666000" />
+      <workItem from="1611557634124" duration="8695000" />
     </task>
     <servers />
   </component>
@@ -274,46 +275,46 @@
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state x="1330" y="125" width="1230" height="1107" key="DiffContextDialog/0.25.2560.1330@0.25.2560.1330" timestamp="1607236034544" />
-    <state width="1337" height="368" key="GridCell.Tab.0.bottom" timestamp="1609998276434">
+    <state width="1638" height="329" key="GridCell.Tab.0.bottom" timestamp="1612751360900">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673732" />
-    <state width="1337" height="368" key="GridCell.Tab.0.bottom/0.25.2560.1330@0.25.2560.1330" timestamp="1609998276434" />
-    <state width="1337" height="368" key="GridCell.Tab.0.center" timestamp="1609998276433">
+    <state width="1638" height="329" key="GridCell.Tab.0.bottom/0.25.2560.1330@0.25.2560.1330" timestamp="1612751360900" />
+    <state width="1638" height="329" key="GridCell.Tab.0.center" timestamp="1612751360898">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673732" />
-    <state width="1337" height="368" key="GridCell.Tab.0.center/0.25.2560.1330@0.25.2560.1330" timestamp="1609998276433" />
-    <state width="1337" height="368" key="GridCell.Tab.0.left" timestamp="1609998276433">
+    <state width="1638" height="329" key="GridCell.Tab.0.center/0.25.2560.1330@0.25.2560.1330" timestamp="1612751360898" />
+    <state width="1638" height="329" key="GridCell.Tab.0.left" timestamp="1612751360898">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673731" />
-    <state width="1337" height="368" key="GridCell.Tab.0.left/0.25.2560.1330@0.25.2560.1330" timestamp="1609998276433" />
-    <state width="1337" height="368" key="GridCell.Tab.0.right" timestamp="1609998276434">
+    <state width="1638" height="329" key="GridCell.Tab.0.left/0.25.2560.1330@0.25.2560.1330" timestamp="1612751360898" />
+    <state width="1638" height="329" key="GridCell.Tab.0.right" timestamp="1612751360899">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673732" />
-    <state width="1337" height="368" key="GridCell.Tab.0.right/0.25.2560.1330@0.25.2560.1330" timestamp="1609998276434" />
-    <state width="1337" height="329" key="GridCell.Tab.1.bottom" timestamp="1609658223136">
+    <state width="1638" height="329" key="GridCell.Tab.0.right/0.25.2560.1330@0.25.2560.1330" timestamp="1612751360899" />
+    <state width="1638" height="329" key="GridCell.Tab.1.bottom" timestamp="1612751360901">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673733" />
-    <state width="1337" height="329" key="GridCell.Tab.1.bottom/0.25.2560.1330@0.25.2560.1330" timestamp="1609658223136" />
-    <state width="1337" height="329" key="GridCell.Tab.1.center" timestamp="1609658223135">
+    <state width="1638" height="329" key="GridCell.Tab.1.bottom/0.25.2560.1330@0.25.2560.1330" timestamp="1612751360901" />
+    <state width="1638" height="329" key="GridCell.Tab.1.center" timestamp="1612751360900">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673733" />
-    <state width="1337" height="329" key="GridCell.Tab.1.center/0.25.2560.1330@0.25.2560.1330" timestamp="1609658223135" />
-    <state width="1337" height="329" key="GridCell.Tab.1.left" timestamp="1609658223135">
+    <state width="1638" height="329" key="GridCell.Tab.1.center/0.25.2560.1330@0.25.2560.1330" timestamp="1612751360900" />
+    <state width="1638" height="329" key="GridCell.Tab.1.left" timestamp="1612751360900">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673732" />
-    <state width="1337" height="329" key="GridCell.Tab.1.left/0.25.2560.1330@0.25.2560.1330" timestamp="1609658223135" />
-    <state width="1337" height="329" key="GridCell.Tab.1.right" timestamp="1609658223135">
+    <state width="1638" height="329" key="GridCell.Tab.1.left/0.25.2560.1330@0.25.2560.1330" timestamp="1612751360900" />
+    <state width="1638" height="329" key="GridCell.Tab.1.right" timestamp="1612751360901">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="1555" height="425" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1604282673733" />
-    <state width="1337" height="329" key="GridCell.Tab.1.right/0.25.2560.1330@0.25.2560.1330" timestamp="1609658223135" />
+    <state width="1638" height="329" key="GridCell.Tab.1.right/0.25.2560.1330@0.25.2560.1330" timestamp="1612751360901" />
     <state x="813" y="174" key="SettingsEditor" timestamp="1608005937123">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
@@ -322,13 +323,26 @@
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state x="838" y="409" width="602" height="538" key="find.popup/0.25.2560.1330@0.25.2560.1330" timestamp="1607409309390" />
-    <state x="420" y="364" width="670" height="676" key="search.everywhere.popup" timestamp="1604280777847">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state x="420" y="364" width="670" height="673" key="search.everywhere.popup" timestamp="1612751365957">
+      <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state x="420" y="364" width="670" height="676" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1604280777847" />
+    <state x="420" y="364" width="670" height="673" key="search.everywhere.popup/0.25.2560.1330@0.25.2560.1330" timestamp="1612751365957" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AI/test2.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AI/test2.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -351,7 +365,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$Design_Circular_Deque___Lai.coverage" NAME="Design Circular Deque - Lai Coverage Results" MODIFIED="1591330689796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Check_If_Linked_List_Has_a_cycle___Lai.coverage" NAME="Check If Linked List Has a cycle - Lai Coverage Results" MODIFIED="1588548837152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Merge_Two_Sorted_Linked_Lists___Lai.coverage" NAME="Merge Two Sorted Linked Lists - Lai Coverage Results" MODIFIED="1589165665477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1609998276409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+    <SUITE FILE_PATH="coverage/Algorithm$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1612682554521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
     <SUITE FILE_PATH="coverage/Algorithm$K_Smallest_In_Unsorted_Array___Lai.coverage" NAME="K Smallest In Unsorted Array - Lai Coverage Results" MODIFIED="1591946642536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Fibonacci_Number___Lai.coverage" NAME="Fibonacci Number - Lai Coverage Results" MODIFIED="1588546431434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$Bubble_Sort.coverage" NAME="Bubble Sort Coverage Results" MODIFIED="1587093003168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

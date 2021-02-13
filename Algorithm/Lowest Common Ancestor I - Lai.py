@@ -35,9 +35,9 @@ The lowest common ancestor of 2 and 9 is 9
 class Solution(object):
     """"""
     """
-    解题思路：自上向下然后自下向上的recursion比较合理，分情况讨论：
-    1. common分别在left, right node上，则parent node就是Lowest
-    2. common在一条支路上，则先碰到的那个就是lowest
+    解题思路：bottom up recursion
+    两种情况： 1. p, q各在root的left and right
+             2.  p, q都在同一支路上
     Time: O(n)
     Space: O(h)
     """
@@ -49,19 +49,26 @@ class Solution(object):
         :type q: TreeNode
         :rtype: TreeNode
         """
-        # base cases:
-        if root is None:
-            return None
+        # base cases
+        # or can be merged as:
+        if not root or root is p or root is q:
+            return root
+        # if root is None:
+        #   return None
+        # if root.val == p.val or root.val == q.val:
+        #   return root
 
-        if root is p or root is q:
+        # left and right nodes
+        left = self.lowestCommonAncestor(root.left, p, q)
+        right = self.lowestCommonAncestor(root.right, p, q)
+
+        if left and right:
             return root
 
-        # for left and right nodes
-        left_common = self.lowestCommonAncestor(root.left, p, q)
-        right_common = self.lowestCommonAncestor(root.right, p, q)
-
-        # 2 conditions
-        if left_common and right_common:
-            return root
-
-        return left_common if left_common else right_common
+        if left:
+            return left
+        if right:
+            return right
+        return None
+        # Or can be written as:
+        return left if left else right

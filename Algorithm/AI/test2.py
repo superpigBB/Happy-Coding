@@ -1,42 +1,38 @@
-class Solution(object):
-    """
-    解题思路： 组合题，但需要剪枝 => DFS做
-    每一层代表： + （ or + ）， 一共2n层
-    每一层states: 2, select ( or select )
-    Time: 第n个卡特兰数 (2^2n/(n*sqrt(n)) * n) => 4^n/sqrt(n)
-    Space: O(n)
-    """
+# Definition for a binary tree node.
+class TreeNode:
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
 
-    def validParentheses(self, n):
-        """
-        input: int n
-        return: string[]
-        """
-        # write your solution here
-        # corner cases
-        if n == 0:
-            return []
+class Solution:
+    def sumOfLeftLeaves(self, root: TreeNode) -> int:
+        total = 0
+        self.recursion(root, total)
+        return total
 
-        result = list()
-        self.dfs(n, 0, 0, [], result)
-        return result
-
-    def dfs(self, n, left, right, subset, result):
+    def recursion(self, root, total):
         # base cases
-        if left == n and right == n:  # or len(subset) == 2 * n
-            result.append(''.join(subset[:]))
-            return
+        if root is None:
+            return 0
 
-            # select (
-            if left < n:
-                subset.append('(')
-                self.dfs(n, left + 1, right, subset, result)
-                # unselect
-                subset.pop()
+        # left and right nodes
+        left_node = self.recursion(root.left)
+        self.recursion(root.right)
 
-            if right < left:
-                subset.append(')')
-                self.dfs(n, left, right + 1, subset, result)
-                subset.pop()
+        return
 
-print(Solution().validParentheses(6))
+
+root = TreeNode(3)
+n1 = TreeNode(9)
+n2 = TreeNode(20)
+n3 = TreeNode(15)
+n4 = TreeNode(7)
+
+root.left = n1
+root.right = n2
+n2.left = n3
+n2.right = n4
+
+
+print(Solution().sumOfLeftLeaves(root))

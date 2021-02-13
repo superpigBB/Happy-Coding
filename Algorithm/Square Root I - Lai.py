@@ -61,25 +61,27 @@ class Solution(object):
         return: int
         """
         # write your solution here
-        """Corner Cases"""
+        # corner cases
         if x == 0 or x == 1:
             return x
 
-        # find closest element whose **2 <=x
-        start, end = 0, math.ceil(x / 2)
-        while start < end - 1:
-            mid = (start + end) // 2   # or mid = start + (end - start) // 2
-            if mid**2 == x:
-                return mid
-            elif mid**2 > x:
-                end = mid
-            else:
-                start = mid
+        n = x // 2
+        start, end = 1, n
 
-        if start**2 == x or end**2 > x:
+        while start < end - 1:
+            mid = (start + end) // 2
+            if mid ** 2 == x:
+                return mid
+            elif mid ** 2 < x:
+                start = mid
+            else:  # mid ** 2 > x
+                end = mid - 1
+
+        if end ** 2 > x:
             return start
-        if end**2 <= x:
-            return end
+
+        return end
+
 
 print(Solution().sqrt(2))  # 1
 print(Solution().sqrt(20))  # 4
