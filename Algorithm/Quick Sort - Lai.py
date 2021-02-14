@@ -41,7 +41,7 @@ class Solution(object):
         left, right = start, end
 
         # 可以取mid index value 或 pivot取随机数
-        pivot = list[(left + right) / 2]
+        pivot = list[(left + right) // 2]
         # import random
         # pivot = list[left + int(random.random() * (right - left + 1))]
 

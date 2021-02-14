@@ -77,7 +77,7 @@ class Solution(object):
         for index in range(start, end + 1):
             list[index] = newlist[index]
         # OR it can be converted as
-        list[start:end + 1] = newlist[start:index]
+        list[start:end + 1] = newlist[start:end + 1]
 
 
 # print(Solution().mergeSort([1]))    # 1
