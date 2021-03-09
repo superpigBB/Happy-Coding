@@ -20,13 +20,31 @@ and sometimes we will need to use something like BigInteger.
 
 
 class Solution(object):
+    """"""
+    """
+    解题思路： 最优解 DP
+    Time: O(k)
+    Space: O(1)
+    """
+    def fibonacci1(self, K):
+        """
+        input: int K
+        return: long
+        """
+        # write your solution here
+        a, b = 0, 1
+        for i in range(K):
+            a, b = b, a + b
+
+        return a
+
     """"
     解题思路： 就是一道recursion基本练习题来理解recursion=> f(k) = f(k-1) + f(k-2)
     时间复杂度和空间复杂度分析是重点！
     Time: O(2^k)
     Space: O(k)
     """
-    def fibonacci(self, K):
+    def fibonacci2(self, K):
         """
         input: int K
         return: long
