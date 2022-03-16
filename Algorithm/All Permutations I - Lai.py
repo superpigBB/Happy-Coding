@@ -45,7 +45,7 @@ class Solution(object):
             result.append(''.join(inputs))
             return
 
-            # for loop 在对每一层里每一个states是什么情况
+        # for loop 在对每一层里每一个states是什么情况
         for i in range(pos, len(inputs)):
             # swap
             inputs[pos], inputs[i] = inputs[i], inputs[pos]

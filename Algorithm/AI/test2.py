@@ -1,60 +1,41 @@
+# Definition for singly-linked list.
+class ListNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.next = None
 class Solution(object):
     """
-    Time: O(nlogn)
-    Space: O(n)
+    解题思路：因为是sorted linked list, 只要把insert的val和前后linked list val比较即可选择插入
+    Time: O(n)
+    Space: O(1)
     """
 
-    def mergeSort(self, array):
+    def insert(self, head, value):
         """
-        input: int[] array
-        return: int[]
+        input: ListNode head, int value
+        return: ListNode
         """
         # write your solution here
         # corner cases
-        if array is None or len(array) == 0 or len(array) == 1:
-            return array
+        if not head:
+            return None
 
-        start, end = 0, len(array) - 1
-        result = [0] * len(array)
-        self.mergesort(array, start, end, result)
-        return array
+        # 因为可能会改变head，所以要设置dummy head
+        dummy = ListNode(None)
+        d = dummy
+        d.next = head
 
-    def mergesort(self, array, start, end, result):
-        # base cases
-        if start >= end:
-            return
+        insert_node = ListNode(value)
 
-        mid = (start + end) // 2
-        self.mergesort(array, start, mid, result)
-        self.mergesort(array, mid + 1, end, result)
+        while d.next:
+            if value <= d.next.val:
+                insert_node.next = d.next.next
+                d.next = insert_node
+                break
+            elif value > d.next.val:
+                d = d.next
 
-        self.merge(array, start, mid, end, result)
+        return dummy.next
 
-    def merge(self, array, start, mid, end, result):
-        i, j = start, mid + 1
-        index = start
-        while i <= mid and j <= end:
-            if array[i] <= array[j]:
-                result[index] = array[i]
-                i += 1
-            else:
-                result[index] = array[j]
-                j += 1
-
-            index += 1
-
-        while i <= mid:
-            result[index] = array[i]
-            i += 1
-            index += 1
-        while j <= end:
-            result[index] = array[j]
-            j += 1
-            index += 1
-
-        for i in range(start, end + 1):
-            array[i] = result[i]
-
-
-
-print(Solution().mergeSort([3, 5, 1, 2, 4, 8]))
+head = ListNode(3)
+print(Solution().insert(head, 3))
