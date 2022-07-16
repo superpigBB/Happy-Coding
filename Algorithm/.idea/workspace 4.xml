@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed65d974-bb9c-43d1-bfe4-197cc7b6ce41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25dKZUtb1os28QSQJAsv3Wtky6K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed65d974-bb9c-43d1-bfe4-197cc7b6ce41" name="Default Changelist" comment="" />
+      <created>1645851578802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645851578802</updated>
+      <workItem from="1645851581680" duration="5853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="440" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645853037152">
+      <screen x="0" y="25" width="1440" height="803" />
+    </state>
+    <state x="0" y="440" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.803@0.25.1440.803" timestamp="1645853037152" />
+    <state x="544" y="183" width="626" height="486" key="find.popup" timestamp="1645937571760">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="544" y="183" width="626" height="486" key="find.popup/0.25.1440.807@0.25.1440.807" timestamp="1645937571760" />
+  </component>
+</project>
