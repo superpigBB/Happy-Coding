@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="855194f5-2c85-4096-be63-27ecfe403008" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/All Permutations I - Lai.py" beforeDir="false" afterPath="$PROJECT_DIR$/All Permutations I - Lai.py" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="855194f5-2c85-4096-be63-27ecfe403008" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,12 +44,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/VickyBao/Documents/GitHub/Happy-Coding/Algorithm/Two Sum II - Input array is sorted.py" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/VickyBao/Documents/GitHub/Happy-Coding/Algorithm",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="Algorithm" is-module-sdk="true">
@@ -72,18 +68,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.test2">
     <configuration name="In-order Traversal Of Binary Tree (recursive) - Lai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -213,6 +197,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -273,17 +258,22 @@
       <workItem from="1635904774177" duration="102000" />
       <workItem from="1642971387080" duration="3635000" />
       <workItem from="1645233438651" duration="1247000" />
+      <workItem from="1657943025294" duration="724000" />
+      <workItem from="1659234557966" duration="507000" />
+      <workItem from="1661718431061" duration="598000" />
+      <workItem from="1661998648133" duration="599000" />
+      <workItem from="1662052392033" duration="372000" />
+      <workItem from="1664589941839" duration="601000" />
+      <workItem from="1668914180403" duration="598000" />
+      <workItem from="1669168807911" duration="561000" />
+      <workItem from="1669579445167" duration="832000" />
+      <workItem from="1669655348703" duration="1200000" />
+      <workItem from="1671428582577" duration="5026000" />
+      <workItem from="1672607405208" duration="787000" />
+      <workItem from="1673411891491" duration="621000" />
+      <workItem from="1673413414716" duration="1255000" />
     </task>
     <servers />
-  </component>
-  <component name="TodoView" selected-index="2">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -294,75 +284,24 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="COLUMN_ORDER" />
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
             </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1684" y="313" key="CommitChangelistDialog2" timestamp="1613198935505">
-      <screen x="0" y="25" width="2560" height="1330" />
-    </state>
-    <state x="1684" y="313" key="CommitChangelistDialog2/0.25.2560.1330@0.25.2560.1330" timestamp="1613198935505" />
-    <state width="1479" height="368" key="GridCell.Tab.0.bottom" timestamp="1620007375955">
-      <screen x="0" y="25" width="2560" height="1330" />
-    </state>
-    <state width="1479" height="368" key="GridCell.Tab.0.bottom/0.25.2560.1330/-2560.25.2560.1415@0.25.2560.1330" timestamp="1620007375955" />
-    <state width="1081" height="329" key="GridCell.Tab.0.bottom/0.25.2560.1330@0.25.2560.1330" timestamp="1619064536080" />
-    <state width="1479" height="368" key="GridCell.Tab.0.center" timestamp="1620007375955">
-      <screen x="0" y="25" width="2560" height="1330" />
-    </state>
-    <state width="1479" height="368" key="GridCell.Tab.0.center/0.25.2560.1330/-2560.25.2560.1415@0.25.2560.1330" timestamp="1620007375955" />
-    <state width="1081" height="329" key="GridCell.Tab.0.center/0.25.2560.1330@0.25.2560.1330" timestamp="1619064536079" />
-    <state width="1479" height="368" key="GridCell.Tab.0.left" timestamp="1620007375955">
-      <screen x="0" y="25" width="2560" height="1330" />
-    </state>
-    <state width="1479" height="368" key="GridCell.Tab.0.left/0.25.2560.1330/-2560.25.2560.1415@0.25.2560.1330" timestamp="1620007375955" />
-    <state width="1081" height="329" key="GridCell.Tab.0.left/0.25.2560.1330@0.25.2560.1330" timestamp="1619064536076" />
-    <state width="1479" height="368" key="GridCell.Tab.0.right" timestamp="1620007375955">
-      <screen x="0" y="25" width="2560" height="1330" />
-    </state>
-    <state width="1479" height="368" key="GridCell.Tab.0.right/0.25.2560.1330/-2560.25.2560.1415@0.25.2560.1330" timestamp="1620007375955" />
-    <state width="1081" height="329" key="GridCell.Tab.0.right/0.25.2560.1330@0.25.2560.1330" timestamp="1619064536079" />
-    <state width="1081" height="329" key="GridCell.Tab.1.bottom" timestamp="1619064536081">
-      <screen x="0" y="25" width="2560" height="1330" />
-    </state>
-    <state width="1081" height="329" key="GridCell.Tab.1.bottom/0.25.2560.1330@0.25.2560.1330" timestamp="1619064536081" />
-    <state width="1081" height="329" key="GridCell.Tab.1.center" timestamp="1619064536080">
-      <screen x="0" y="25" width="2560" height="1330" />
-    </state>
-    <state width="1081" height="329" key="GridCell.Tab.1.center/0.25.2560.1330@0.25.2560.1330" timestamp="1619064536080" />
-    <state width="1081" height="329" key="GridCell.Tab.1.left" timestamp="1619064536080">
-      <screen x="0" y="25" width="2560" height="1330" />
-    </state>
-    <state width="1081" height="329" key="GridCell.Tab.1.left/0.25.2560.1330@0.25.2560.1330" timestamp="1619064536080" />
-    <state width="1081" height="329" key="GridCell.Tab.1.right" timestamp="1619064536080">
-      <screen x="0" y="25" width="2560" height="1330" />
-    </state>
-    <state width="1081" height="329" key="GridCell.Tab.1.right/0.25.2560.1330@0.25.2560.1330" timestamp="1619064536080" />
-    <state x="838" y="409" width="873" height="538" key="find.popup" timestamp="1614040139684">
-      <screen x="0" y="25" width="2560" height="1330" />
-    </state>
-    <state x="838" y="409" width="873" height="538" key="find.popup/0.25.2560.1330@0.25.2560.1330" timestamp="1614040139684" />
-    <state x="420" y="364" width="670" height="673" key="search.everywhere.popup" timestamp="1612751365957">
-      <screen x="0" y="25" width="2560" height="1330" />
-    </state>
-    <state x="420" y="364" width="670" height="673" key="search.everywhere.popup/0.25.2560.1330@0.25.2560.1330" timestamp="1612751365957" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/AI/test2.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/AI/test2.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="98" />
+          <line>30</line>
+          <option name="timeStamp" value="105" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -379,38 +318,5 @@
         <watch expression="list" language="Python" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1626323414973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
-    <SUITE FILE_PATH="coverage/Algorithm$Intersection_of_Two_Arrays.coverage" NAME="Intersection of Two Arrays Coverage Results" MODIFIED="1586660038598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Bubble_Sort.coverage" NAME="Bubble Sort Coverage Results" MODIFIED="1587093003168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Valid_Parenthese___Lai.coverage" NAME="Valid Parenthese - Lai Coverage Results" MODIFIED="1591070782380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Search_In_Sorted_Matrix_I___Lai.coverage" NAME="Search In Sorted Matrix I - Lai Coverage Results" MODIFIED="1587940403484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$K_Closet_In_Sorted_Array___Lai.coverage" NAME="K Closet In Sorted Array - Lai Coverage Results" MODIFIED="1587879393151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Number_of_Nodes___Lai.coverage" NAME="Number of Nodes - Lai Coverage Results" MODIFIED="1589064141590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Reverse_Linked_list__recursive____Lai.coverage" NAME="Reverse Linked list (recursive) - Lai Coverage Results" MODIFIED="1589154048707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Selection_Sort.coverage" NAME="Selection Sort Coverage Results" MODIFIED="1586754843972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$First_Occurence___Lai.coverage" NAME="First Occurence - Lai Coverage Results" MODIFIED="1587439866396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Reverse_Linked_List__iterative_____Lai.coverage" NAME="Reverse Linked List (iterative)  - Lai Coverage Results" MODIFIED="1589150980724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$K_Smallest_In_Unsorted_Array___Lai.coverage" NAME="K Smallest In Unsorted Array - Lai Coverage Results" MODIFIED="1591946642536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Closet_in_Sorted_Array.coverage" NAME="Closet in Sorted Array Coverage Results" MODIFIED="1587443082693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Square_Root_I___Lai.coverage" NAME="Square Root I - Lai Coverage Results" MODIFIED="1587960508865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Design_Circular_Deque___Lai.coverage" NAME="Design Circular Deque - Lai Coverage Results" MODIFIED="1591330689796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Quick_Sort___Lai.coverage" NAME="Quick Sort - Lai Coverage Results" MODIFIED="1590633965614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Check_If_Linked_List_Has_a_cycle___Lai.coverage" NAME="Check If Linked List Has a cycle - Lai Coverage Results" MODIFIED="1588548837152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$test.coverage" NAME="test Coverage Results" MODIFIED="1587347728007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
-    <SUITE FILE_PATH="coverage/Algorithm$Fibonacci_Number___Lai.coverage" NAME="Fibonacci Number - Lai Coverage Results" MODIFIED="1588546431434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Merge_Sort___Lai.coverage" NAME="Merge Sort - Lai Coverage Results" MODIFIED="1590636300023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Sort_Integers_II.coverage" NAME="Sort Integers II Coverage Results" MODIFIED="1590633958544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Last_Occurrence___Lai.coverage" NAME="Last Occurrence - Lai Coverage Results" MODIFIED="1587441141448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Kth_Largest_Element_in_an_Array.coverage" NAME="Kth Largest Element in an Array Coverage Results" MODIFIED="1591939805436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Second_Larget_Value_in_BST___Lai.coverage" NAME="Second Larget Value in BST - Lai Coverage Results" MODIFIED="1592022367614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$In_order_Traversal_Of_Binary_Tree__recursive____Lai.coverage" NAME="In-order Traversal Of Binary Tree (recursive) - Lai Coverage Results" MODIFIED="1601354325589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Merge_Two_Sorted_Linked_Lists___Lai.coverage" NAME="Merge Two Sorted Linked Lists - Lai Coverage Results" MODIFIED="1589165665477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$insertion_sort___Lai.coverage" NAME="insertion_sort - Lai Coverage Results" MODIFIED="1589508451373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Rainbow_Sort___Lai.coverage" NAME="Rainbow Sort - Lai Coverage Results" MODIFIED="1590816772481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Total_Occurrence___Lai.coverage" NAME="Total Occurrence - Lai Coverage Results" MODIFIED="1587957268852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Remove_Adjacent_Repeated_Charaters_I___Lai.coverage" NAME="Remove Adjacent Repeated Charaters I - Lai Coverage Results" MODIFIED="1591932160565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$Middle_Node_of_Linked_List___Lai.coverage" NAME="Middle Node of Linked List - Lai Coverage Results" MODIFIED="1588476453251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

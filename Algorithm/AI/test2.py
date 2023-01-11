@@ -1,41 +1,38 @@
-# Definition for singly-linked list.
-class ListNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.next = None
-class Solution(object):
+class Solution:
     """
-    解题思路：因为是sorted linked list, 只要把insert的val和前后linked list val比较即可选择插入
-    Time: O(n)
-    Space: O(1)
+    Time: O(row * col)
+    Space: O(row * col)
     """
+    def maxAreaOfIsland(self, grid) -> int:
+        def dfs(i, j):
+            if i < 0 or j < 0 or i >= rows or j >= cols or grid[j][j] == 0:
+                print(f'i: {i}, j: {j}')
+                return 0
 
-    def insert(self, head, value):
-        """
-        input: ListNode head, int value
-        return: ListNode
-        """
-        # write your solution here
-        # corner cases
-        if not head:
-            return None
+            grid[i][j] = 0
+            cnt = 1
+            cnt += dfs(i + 1, j)
+            cnt += dfs(i - 1, j)
+            cnt += dfs(i, j + 1)
+            cnt += dfs(i, j - 1)
+            return cnt
 
-        # 因为可能会改变head，所以要设置dummy head
-        dummy = ListNode(None)
-        d = dummy
-        d.next = head
+        if not grid:
+            return 0
+        res = 0
+        rows = len(grid)
+        if not rows:
+            return 0
+        cols = len(grid[0])
 
-        insert_node = ListNode(value)
+        for i in range(rows):
+            for j in range(cols):
+                if grid[i][j] == 1:
+                    res = max(res, dfs(i, j))
 
-        while d.next:
-            if value <= d.next.val:
-                insert_node.next = d.next.next
-                d.next = insert_node
-                break
-            elif value > d.next.val:
-                d = d.next
+        return res
 
-        return dummy.next
 
-head = ListNode(3)
-print(Solution().insert(head, 3))
+print(Solution().maxAreaOfIsland([[0,0,1,0,0,0,0,1,0,0,0,0,0],[0,0,0,0,0,0,0,1,1,1,0,0,0],[0,1,1,0,1,0,0,0,0,0,0,0,0],
+                                  [0,1,0,0,1,1,0,0,1,0,1,0,0],[0,1,0,0,1,1,0,0,1,1,1,0,0],[0,0,0,0,0,0,0,0,0,0,1,0,0],
+                                  [0,0,0,0,0,0,0,1,1,1,0,0,0],[0,0,0,0,0,0,0,1,1,0,0,0,0]]))
